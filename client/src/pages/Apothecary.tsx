@@ -40,10 +40,23 @@ export default function Apothecary() {
   const [activeCat, setActiveCat] = useState<string>("");
 
   useEffect(() => {
-    fetch("/api/apothecary")
-      .then((r) => r.json())
-      .then(setData)
-      .catch(() => setData(null));
+    const tryUrls = ["/api/apothecary", "/data/apothecary.json"];
+    (async () => {
+      for (const url of tryUrls) {
+        try {
+          const r = await fetch(url);
+          if (!r.ok) continue;
+          const ct = r.headers.get("content-type") || "";
+          if (!ct.includes("json")) continue;
+          const j = await r.json();
+          if (j && Array.isArray(j.items) && j.items.length > 0) {
+            setData(j);
+            return;
+          }
+        } catch { /* try next */ }
+      }
+      setData(null);
+    })();
   }, []);
 
   const items = data?.items ?? [];

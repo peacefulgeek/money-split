@@ -29,17 +29,30 @@ let inflight: Promise<Article[]> | null = null;
 export function fetchArticles(): Promise<Article[]> {
   if (cache) return Promise.resolve(cache);
   if (inflight) return inflight;
-  inflight = fetch("/api/articles", { credentials: "same-origin" })
-    .then((r) => r.json())
-    .then((j) => {
-      cache = (j.articles || []) as Article[];
-      cache.sort((a, b) => (a.published_at < b.published_at ? 1 : -1));
-      return cache;
-    })
-    .catch(() => {
-      cache = [];
-      return cache;
-    });
+  // Try /api/articles (Express) then fall back to /data/articles.json (static).
+  // This makes the site work in dev (Vite middleware), production (Express),
+  // and any static-only host without changing client code.
+  const tryUrls = ["/api/articles", "/data/articles.json"];
+  inflight = (async () => {
+    for (const url of tryUrls) {
+      try {
+        const r = await fetch(url, { credentials: "same-origin" });
+        if (!r.ok) continue;
+        const ct = r.headers.get("content-type") || "";
+        if (!ct.includes("json")) continue;
+        const j = await r.json();
+        const list = (j.articles || []) as Article[];
+        if (!Array.isArray(list) || list.length === 0) continue;
+        cache = list;
+        cache.sort((a, b) => (a.published_at < b.published_at ? 1 : -1));
+        return cache;
+      } catch {
+        // try the next url
+      }
+    }
+    cache = [];
+    return cache;
+  })();
   return inflight;
 }
 

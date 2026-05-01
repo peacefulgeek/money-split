@@ -43,3 +43,15 @@
 - [ ] Add scripts/migrate-images-to-bunny.mjs that converts every PNG in /home/ubuntu/webdev-static-assets to compressed WebP, uploads to Bunny, rewrites src/data/hero-images.json + chrome-images.json
 - [ ] Run the migration; verify 200 from money-split.b-cdn.net for every image
 - [ ] Delete the local /home/ubuntu/webdev-static-assets PNGs after successful upload
+
+
+## URGENT: ARTICLES NOT RENDERING (user-reported, May 1 2026 evening)
+
+- [ ] Hit /api/articles in dev — does it return JSON with .articles[]?
+- [ ] Hit /api/articles in production manus.space — does it return JSON?
+- [ ] Inspect Home.tsx + Articles.tsx — confirm the response shape they're expecting
+- [ ] Inspect useArticles hook — is the parse correct?
+- [ ] Fix the rendering pipeline so 30 articles show on / and /articles
+- [ ] Verify in screenshot
+- [ ] Re-export to /tmp/money-split-export and push fix to peacefulgeek/money-split
+- [ ] Return new commit SHA
