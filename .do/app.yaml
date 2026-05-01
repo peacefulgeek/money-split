@@ -1,0 +1,33 @@
+# Master scope §6 — DigitalOcean App Platform spec.
+# This file ships in the repo so the user can connect peacefulgeek/{repo}
+# to DO and deploy with one click. Not required for Manus webdev hosting.
+name: money-split
+region: nyc
+services:
+  - name: web
+    github:
+      repo: peacefulgeek/divorce-finance
+      branch: main
+      deploy_on_push: true
+    build_command: pnpm install --frozen-lockfile && pnpm build
+    run_command: node scripts/start-with-cron.mjs
+    http_port: 3000
+    instance_count: 1
+    instance_size_slug: basic-xs
+    health_check:
+      http_path: /health
+      initial_delay_seconds: 15
+      period_seconds: 30
+      timeout_seconds: 5
+      success_threshold: 1
+      failure_threshold: 3
+    envs:
+      - { key: NODE_ENV,        value: production,                       scope: RUN_TIME }
+      - { key: PORT,            value: '3000',                           scope: RUN_TIME }
+      - { key: AUTO_GEN_ENABLED,value: 'true',                           scope: RUN_TIME }
+      - { key: OPENAI_API_KEY,  value: ${OPENAI_API_KEY},               scope: RUN_TIME, type: SECRET }
+      - { key: OPENAI_BASE_URL, value: 'https://api.deepseek.com',       scope: RUN_TIME }
+      - { key: OPENAI_MODEL,    value: 'deepseek-v4-pro',                scope: RUN_TIME }
+domains:
+  - { domain: divorcefinance.com, type: PRIMARY, zone: divorcefinance.com }
+  - { domain: www.divorcefinance.com, type: ALIAS, zone: divorcefinance.com }

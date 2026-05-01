@@ -1,0 +1,3005 @@
+{
+  "count": 500,
+  "topics": [
+    {
+      "slug": "qdro-101-for-spouses-without-a-finance-background",
+      "title": "QDRO 101 for spouses without a finance background",
+      "dek": "Reading the language of qualified domestic relations orders, slowly.",
+      "category": "money-math"
+    },
+    {
+      "slug": "qdro-201-when-there-are-two-retirement-accounts-to-divide",
+      "title": "QDRO 201, when there are two retirement accounts to divide",
+      "dek": "Two plans, two trustees, one calm spreadsheet.",
+      "category": "money-math"
+    },
+    {
+      "slug": "qdro-301-when-one-spouse-has-a-defined-benefit-pension",
+      "title": "QDRO 301, when one spouse has a defined-benefit pension",
+      "dek": "Pensions are not 401(k)s, and the math knows it.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-a-roth-ira-without-losing-the-tax-benefit",
+      "title": "Splitting a Roth IRA without losing the tax benefit",
+      "dek": "Direct trustee transfers are the gentle path.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-a-traditional-ira-without-an-early-withdrawal-penalty",
+      "title": "Splitting a traditional IRA without an early-withdrawal penalty",
+      "dek": "The 10% penalty is avoidable; here is how.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-a-brokerage-account-line-by-line",
+      "title": "Splitting a brokerage account, line by line",
+      "dek": "Cost basis matters more than balance.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-unvested-stock-options-at-divorce",
+      "title": "How to split unvested stock options at divorce",
+      "dek": "The Hug formula, the Nelson formula, and what your judge will accept.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-vested-rsus-without-triggering-a-wash-sale",
+      "title": "How to split vested RSUs without triggering a wash sale",
+      "dek": "Awards before the date, awards after, and the line between.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-an-hsa-in-a-divorce",
+      "title": "Splitting an HSA in a divorce",
+      "dek": "HSAs follow custodial rules, not community-property intuition.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-an-fsa-balance-at-the-end-of-the-year",
+      "title": "Splitting an FSA balance at the end of the year",
+      "dek": "Use-it-or-lose-it meets the divorce calendar.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-a-529-plan-that-has-both-kids-on-it",
+      "title": "Splitting a 529 plan that has both kids on it",
+      "dek": "Beneficiaries can be changed; intentions cannot be.",
+      "category": "money-math"
+    },
+    {
+      "slug": "splitting-an-ugma-utma-account-that-is-technically-the-kid-s",
+      "title": "Splitting an UGMA/UTMA account that is technically the kid's",
+      "dek": "The custodian role, and what changes at majority.",
+      "category": "money-math"
+    },
+    {
+      "slug": "valuing-a-pension-without-an-actuary-the-back-of-envelope-way",
+      "title": "Valuing a pension without an actuary, the back-of-envelope way",
+      "dek": "A present-value formula a calm adult can run alone.",
+      "category": "money-math"
+    },
+    {
+      "slug": "valuing-a-private-business-at-divorce-three-honest-methods",
+      "title": "Valuing a private business at divorce, three honest methods",
+      "dek": "Asset, market, income.",
+      "category": "money-math"
+    },
+    {
+      "slug": "valuing-a-small-medical-practice-at-divorce",
+      "title": "Valuing a small medical practice at divorce",
+      "dek": "Goodwill, AR, and the hard parts.",
+      "category": "money-math"
+    },
+    {
+      "slug": "valuing-a-law-firm-partnership-interest-at-divorce",
+      "title": "Valuing a law-firm partnership interest at divorce",
+      "dek": "Partner draws are not salary.",
+      "category": "money-math"
+    },
+    {
+      "slug": "valuing-real-estate-investment-llcs-at-divorce",
+      "title": "Valuing real-estate-investment LLCs at divorce",
+      "dek": "K-1s, depreciation, and the difference between book and economic value.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-read-a-k-1-when-you-did-not-file-the-partnership-return",
+      "title": "How to read a K-1 when you did not file the partnership return",
+      "dek": "Box 1, box 14, box 19.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-read-a-schedule-c-when-your-spouse-is-self-employed",
+      "title": "How to read a Schedule C when your spouse is self-employed",
+      "dek": "Owner draws are the line you watch.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-read-a-profit-and-loss-statement-when-you-have-never-seen-one",
+      "title": "How to read a profit-and-loss statement when you have never seen one",
+      "dek": "The five lines that matter.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-read-a-balance-sheet-that-your-spouse-s-accountant-prepared",
+      "title": "How to read a balance sheet that your spouse's accountant prepared",
+      "dek": "Assets minus liabilities is only the start.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-three-years-of-tax-returns-the-way-a-divorce-attorney-does",
+      "title": "Reading three years of tax returns the way a divorce attorney does",
+      "dek": "Where the income lives, line by line.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-three-years-of-bank-statements-the-way-a-forensic-accountant-d",
+      "title": "Reading three years of bank statements the way a forensic accountant does",
+      "dek": "Round numbers are stories.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-three-years-of-credit-card-statements-for-hidden-lifestyle-clu",
+      "title": "Reading three years of credit-card statements for hidden lifestyle clues",
+      "dek": "Hotels, gifts, and recurring charges that do not appear on the joint calendar.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-a-schedule-e-for-rental-properties-you-did-not-know-existed",
+      "title": "Reading a Schedule E for rental properties you did not know existed",
+      "dek": "Cash-flow lines, depreciation lines.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-a-form-8606-for-non-deductible-ira-contributions",
+      "title": "Reading a Form 8606 for non-deductible IRA contributions",
+      "dek": "Basis carries through divorce.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-a-form-5498-for-ira-contributions-and-rollovers",
+      "title": "Reading a Form 5498 for IRA contributions and rollovers",
+      "dek": "Reporting the year your account changed.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reading-a-1099-r-after-a-qdro-distribution",
+      "title": "Reading a 1099-R after a QDRO distribution",
+      "dek": "Code 2, code 7, and the boxes that decide your tax bill.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-capital-gains-tax-on-the-sale-of-the-marital-home",
+      "title": "Calculating capital-gains tax on the sale of the marital home",
+      "dek": "$250k, $500k, and what the exclusion really means.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-after-tax-value-of-an-alimony-stream-post-2018",
+      "title": "Calculating the after-tax value of an alimony stream, post-2018",
+      "dek": "The TCJA changed the math; the math, however, is calm.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-after-tax-value-of-a-child-support-stream",
+      "title": "Calculating the after-tax value of a child-support stream",
+      "dek": "Child support is not taxable; what that means in negotiations.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-after-tax-value-of-a-401-k-at-divorce",
+      "title": "Calculating the after-tax value of a 401(k) at divorce",
+      "dek": "$100,000 is not $100,000.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-after-tax-value-of-a-roth-at-divorce",
+      "title": "Calculating the after-tax value of a Roth at divorce",
+      "dek": "Tax-free withdrawals are real money.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-after-tax-value-of-a-brokerage-account-at-divorce",
+      "title": "Calculating the after-tax value of a brokerage account at divorce",
+      "dek": "Embedded gains are silent debt.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-present-value-of-future-child-support-payments",
+      "title": "Calculating the present value of future child-support payments",
+      "dek": "A discount rate that respects reality.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-the-present-value-of-future-alimony-payments",
+      "title": "Calculating the present value of future alimony payments",
+      "dek": "How long, how much, what it is worth today.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-equity-in-a-home-that-has-been-refinanced-twice",
+      "title": "Calculating equity in a home that has been refinanced twice",
+      "dek": "Cost basis, capital improvements, second mortgages.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-equity-in-a-home-that-is-partly-owned-by-a-parent",
+      "title": "Calculating equity in a home that is partly owned by a parent",
+      "dek": "Partial-interest deeds at divorce.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-equity-in-a-home-that-is-held-in-a-living-trust",
+      "title": "Calculating equity in a home that is held in a living trust",
+      "dek": "Trust assets do not always escape division.",
+      "category": "money-math"
+    },
+    {
+      "slug": "calculating-equity-in-a-home-that-is-owned-by-an-llc-for-tax-reasons",
+      "title": "Calculating equity in a home that is owned by an LLC for tax reasons",
+      "dek": "Inside-the-box ownership.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-life-insurance-cash-value-at-divorce",
+      "title": "How to split a life-insurance cash value at divorce",
+      "dek": "Whole-life accumulations are real assets.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-deferred-compensation-plan",
+      "title": "How to split a deferred-compensation plan",
+      "dek": "457(b)s, NQDCs, and the timing problem.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-sep-ira-when-one-spouse-is-self-employed",
+      "title": "How to split a SEP-IRA when one spouse is self-employed",
+      "dek": "Owner contributions complicate the picture.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-simple-ira-when-both-spouses-worked-at-the-same-busines",
+      "title": "How to split a SIMPLE IRA when both spouses worked at the same business",
+      "dek": "Two employees, one employer, one divorce.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-403-b-at-divorce-when-one-spouse-is-a-teacher",
+      "title": "How to split a 403(b) at divorce when one spouse is a teacher",
+      "dek": "Public-school plans behave differently than 401(k)s.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-457-b-at-divorce-when-one-spouse-is-in-government",
+      "title": "How to split a 457(b) at divorce when one spouse is in government",
+      "dek": "Catch-up rules and what changes at separation.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-tsp-at-divorce-when-one-spouse-is-a-federal-employee",
+      "title": "How to split a TSP at divorce when one spouse is a federal employee",
+      "dek": "Court orders, retirement benefits, and the FERS handshake.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-military-retirement-under-the-usfspa",
+      "title": "How to split military retirement under the USFSPA",
+      "dek": "Ten-year rule, twenty-year rule, twenty/twenty/twenty rule.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-disability-pay-during-divorce",
+      "title": "How to split disability pay during divorce",
+      "dek": "Disability is generally not divisible; what the case law says.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-a-survivor-benefit-on-a-federal-pension",
+      "title": "How to split a survivor benefit on a federal pension",
+      "dek": "Designating a former spouse, after the fact.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-split-social-security-at-divorce-in-plain-english",
+      "title": "How to split Social Security at divorce, in plain English",
+      "dek": "There is no split; there is your record, and there is theirs.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-life-insurance-for-child-support",
+      "title": "How to think about life-insurance for child support",
+      "dek": "When the support obligor passes; how the money keeps flowing.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-life-insurance-for-alimony",
+      "title": "How to think about life-insurance for alimony",
+      "dek": "Term policies that match the alimony stream.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-disability-insurance-for-the-support-obligor",
+      "title": "How to think about disability insurance for the support obligor",
+      "dek": "What if the income disappears?",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-write-a-divorce-financial-affidavit-you-would-not-be-embarrasse",
+      "title": "How to write a divorce-financial affidavit you would not be embarrassed by",
+      "dek": "The form, the math, the gentle truth.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-assemble-a-marital-balance-sheet-in-three-columns",
+      "title": "How to assemble a marital balance sheet, in three columns",
+      "dek": "Yours, mine, ours.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-assemble-a-marital-cash-flow-statement-in-two-columns",
+      "title": "How to assemble a marital cash-flow statement, in two columns",
+      "dek": "Inflow, outflow, and a quiet hour.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-monthly-budget-with-kindness",
+      "title": "How to estimate your post-divorce monthly budget, with kindness",
+      "dek": "Do the math first; the feelings second.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-annual-taxes-year-one",
+      "title": "How to estimate your post-divorce annual taxes, year one",
+      "dek": "Filing status, withholding, surprises.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-healthcare-costs",
+      "title": "How to estimate your post-divorce healthcare costs",
+      "dek": "COBRA vs. ACA marketplace vs. spouse-employer plans.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-housing-costs-all-in",
+      "title": "How to estimate your post-divorce housing costs, all-in",
+      "dek": "Mortgage, insurance, taxes, repairs, and the bag of garden tools.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-childcare-costs",
+      "title": "How to estimate your post-divorce childcare costs",
+      "dek": "Daycare, after-school, summer.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-transportation-costs",
+      "title": "How to estimate your post-divorce transportation costs",
+      "dek": "One car becomes two; insurance follows.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-food-costs-honestly",
+      "title": "How to estimate your post-divorce food costs honestly",
+      "dek": "The pantry resets; so does the grocery list.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-utilities",
+      "title": "How to estimate your post-divorce utilities",
+      "dek": "Two homes, two electric bills.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-internet-phone-and-streaming-costs",
+      "title": "How to estimate your post-divorce internet, phone, and streaming costs",
+      "dek": "The recurring tail of modern life.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-subscriptions-and-memberships",
+      "title": "How to estimate your post-divorce subscriptions and memberships",
+      "dek": "The audit no one wants to do.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-estimate-your-post-divorce-furniture-and-household-goods-replac",
+      "title": "How to estimate your post-divorce furniture and household-goods replacement",
+      "dek": "The first year is heavier; plan for it.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-federal-child-tax-credit-after-divorce",
+      "title": "Understanding the federal child-tax credit after divorce",
+      "dek": "Who claims, when, and what to do if both spouses claim.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-earned-income-tax-credit-after-divorce",
+      "title": "Understanding the earned-income tax credit after divorce",
+      "dek": "Income limits and the qualifying child.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-dependent-care-credit-after-divorce",
+      "title": "Understanding the dependent-care credit after divorce",
+      "dek": "Daycare receipts, summer-camp receipts, and Form 2441.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-saver-s-credit-after-divorce",
+      "title": "Understanding the saver's credit after divorce",
+      "dek": "A small but real credit for low-income retirement savers.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-premium-tax-credit-after-divorce",
+      "title": "Understanding the premium tax credit after divorce",
+      "dek": "Marketplace plans, household income, and the cliff.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-head-of-household-filing-after-divorce",
+      "title": "Understanding head-of-household filing after divorce",
+      "dek": "Who qualifies; what it saves.",
+      "category": "money-math"
+    },
+    {
+      "slug": "understanding-the-qualifying-relative-rules-after-divorce",
+      "title": "Understanding the qualifying-relative rules after divorce",
+      "dek": "Adult children, parents, and dependents.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-alimony-recapture-works-and-how-to-avoid-it",
+      "title": "How alimony recapture works (and how to avoid it)",
+      "dek": "Front-loaded alimony triggers a recapture rule.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-equalization-payments-work-in-community-property-states",
+      "title": "How equalization payments work in community-property states",
+      "dek": "Who pays whom; when; and why it is rarely round.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-buyouts-work-in-equitable-distribution-states",
+      "title": "How buyouts work in equitable-distribution states",
+      "dek": "The home, the practice, the pension; one big check.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-property-division-works-in-nine-community-property-states",
+      "title": "How property division works in nine community-property states",
+      "dek": "What is owned by both, regardless of the title.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-property-division-works-in-equitable-distribution-states",
+      "title": "How property division works in equitable-distribution states",
+      "dek": "Fairness is not always fifty-fifty.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-property-division-works-in-louisiana-in-plain-english",
+      "title": "How property division works in Louisiana, in plain English",
+      "dek": "A civil-law tradition with civil-law surprises.",
+      "category": "money-math"
+    },
+    {
+      "slug": "reimbursement-claims-when-separate-property-paid-for-marital-property",
+      "title": "Reimbursement claims: when separate property paid for marital property",
+      "dek": "Credit and reimbursement at divorce.",
+      "category": "money-math"
+    },
+    {
+      "slug": "tracing-claims-when-a-separate-asset-got-commingled",
+      "title": "Tracing claims: when a separate asset got commingled",
+      "dek": "Bank statements as evidence.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-inherited-assets-at-divorce",
+      "title": "How to handle inherited assets at divorce",
+      "dek": "Generally separate; commingling can change that.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-gifts-from-parents-at-divorce",
+      "title": "How to handle gifts from parents at divorce",
+      "dek": "Letters, deposits, and the burden of proof.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-student-loan-debt-at-divorce",
+      "title": "How to handle student-loan debt at divorce",
+      "dek": "Whose debt; whose payment plan; whose credit.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-medical-debt-at-divorce",
+      "title": "How to handle medical debt at divorce",
+      "dek": "Joint plan, sole signature; the hospital does not care.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-a-small-business-operating-loan-at-divorce",
+      "title": "How to handle a small-business operating loan at divorce",
+      "dek": "Personal guarantees outlive the marriage.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-a-heloc-at-divorce",
+      "title": "How to handle a HELOC at divorce",
+      "dek": "Joint title, joint signature, joint headaches.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-a-parent-plus-loan-at-divorce",
+      "title": "How to handle a parent-PLUS loan at divorce",
+      "dek": "Parent-PLUS belongs to the borrower.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-handle-private-student-loans-you-cosigned-with-a-spouse",
+      "title": "How to handle private student loans you cosigned with a spouse",
+      "dek": "Cosignature does not unwind at divorce.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-as-a-wasting-asset",
+      "title": "How to think about the marital home as a wasting asset",
+      "dek": "Roofs, HVAC, taxes; the slow drain.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-as-a-tax-shelter",
+      "title": "How to think about the marital home as a tax shelter",
+      "dek": "Mortgage interest, property tax, capital-gain exclusion.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-as-a-forced-savings-account",
+      "title": "How to think about the marital home as a forced savings account",
+      "dek": "Equity gain over decades, by accident.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-as-a-child-anchor",
+      "title": "How to think about the marital home as a child anchor",
+      "dek": "School district, friends, and what stability is worth in dollars.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-as-a-sunk-cost",
+      "title": "How to think about the marital home as a sunk cost",
+      "dek": "The fallacy that keeps people in too-large houses.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-if-you-both-want-to-keep-it",
+      "title": "How to think about the marital home if you both want to keep it",
+      "dek": "Coin flip is not a strategy; structure is.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-the-marital-home-if-neither-of-you-wants-it",
+      "title": "How to think about the marital home if neither of you wants it",
+      "dek": "A quick sale, a calm split.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-refinance-the-marital-home-on-one-income",
+      "title": "How to refinance the marital home on one income",
+      "dek": "The lender's math, the appraisal, the seasoning.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-assume-the-existing-mortgage-at-divorce",
+      "title": "How to assume the existing mortgage at divorce",
+      "dek": "Few loans are assumable; how to ask anyway.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-negotiate-a-deed-transfer-without-refinancing",
+      "title": "How to negotiate a deed transfer without refinancing",
+      "dek": "Quitclaim is not a release of liability.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-refinance-with-a-co-signer-who-is-not-your-spouse",
+      "title": "How to refinance with a co-signer who is not your spouse",
+      "dek": "Parents, siblings, and the new household.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-qualify-for-a-mortgage-with-alimony-as-income",
+      "title": "How to qualify for a mortgage with alimony as income",
+      "dek": "Six months of receipts; three years to go.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-qualify-for-a-mortgage-with-child-support-as-income",
+      "title": "How to qualify for a mortgage with child support as income",
+      "dek": "Shorter receipts, similar logic.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-fha-va-and-usda-loans-after-divorce",
+      "title": "How to think about FHA, VA, and USDA loans after divorce",
+      "dek": "Government-backed loans for the new household.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-a-non-qm-mortgage-after-divorce",
+      "title": "How to think about a non-QM mortgage after divorce",
+      "dek": "When standard underwriting does not fit.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-renting-for-two-years-before-buying",
+      "title": "How to think about renting for two years before buying",
+      "dek": "Liquidity over equity; calm over speed.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-a-thirty-year-vs-fifteen-year-mortgage-at-year-one",
+      "title": "How to think about a thirty-year vs. fifteen-year mortgage at year one",
+      "dek": "Affordability today, freedom later.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-an-arm-after-divorce",
+      "title": "How to think about an ARM after divorce",
+      "dek": "The cap, the floor, and the next reset.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-points-at-the-closing-table",
+      "title": "How to think about points at the closing table",
+      "dek": "When buying down the rate is worth it.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-pmi-after-divorce",
+      "title": "How to think about PMI after divorce",
+      "dek": "The dance of equity and insurance.",
+      "category": "money-math"
+    },
+    {
+      "slug": "how-to-think-about-closing-costs-in-a-refinance-after-divorce",
+      "title": "How to think about closing costs in a refinance after divorce",
+      "dek": "The fees that decide the breakeven.",
+      "category": "money-math"
+    },
+    {
+      "slug": "the-first-24-hours-after-the-papers-are-filed",
+      "title": "The first 24 hours after the papers are filed",
+      "dek": "Breathe; document; do not delete.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-72-hours-after-the-papers-are-filed",
+      "title": "The first 72 hours after the papers are filed",
+      "dek": "Open one folder; close the joint cards in writing.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-7-days-after-the-papers-are-filed",
+      "title": "The first 7 days after the papers are filed",
+      "dek": "Pull a credit report; pull tax returns; pull statements.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-30-days-after-the-papers-are-filed",
+      "title": "The first 30 days after the papers are filed",
+      "dek": "One bank account; one check-in with a planner; one list.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-60-days-after-the-papers-are-filed",
+      "title": "The first 60 days after the papers are filed",
+      "dek": "Update beneficiaries; pull insurance; check medical.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-90-days-after-the-papers-are-filed",
+      "title": "The first 90 days after the papers are filed",
+      "dek": "A new budget; a new emergency fund target; one Sunday for review.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-six-months-small-wins-compounding-into-clarity",
+      "title": "The first six months: small wins compounding into clarity",
+      "dek": "Three small wins a month; that is enough.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "the-first-nine-months-the-season-change",
+      "title": "The first nine months: the season change",
+      "dek": "What you did not see in spring is visible by autumn.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "year-one-how-to-do-a-calm-financial-review",
+      "title": "Year one: how to do a calm financial review",
+      "dek": "An annual ritual, not a panic.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "year-two-the-second-year-plateau-and-how-to-use-it",
+      "title": "Year two: the second-year plateau and how to use it",
+      "dek": "Less drama, more compounding.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "year-three-the-inflection-year-in-plain-numbers",
+      "title": "Year three: the inflection year, in plain numbers",
+      "dek": "A small system has done a lot.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "year-five-the-long-haul-check-in",
+      "title": "Year five: the long-haul check-in",
+      "dek": "What looked like loss; what became foundation.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-a-money-sunday-ritual-that-you-actually-keep",
+      "title": "How to set up a Money Sunday ritual that you actually keep",
+      "dek": "One hour, every Sunday morning, with tea.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-a-money-tuesday-ritual-that-fits-your-job",
+      "title": "How to set up a Money Tuesday ritual that fits your job",
+      "dek": "Mid-week, low-friction, fifteen minutes.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-a-money-saturday-ritual-when-you-parent-on-weekends",
+      "title": "How to set up a Money Saturday ritual when you parent on weekends",
+      "dek": "While the coffee brews.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-one-page-financial-plan-with-a-fountain-pen",
+      "title": "How to write a one-page financial plan, with a fountain pen",
+      "dek": "The pen is part of the discipline.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-one-paragraph-financial-plan-when-a-page-feels-long",
+      "title": "How to write a one-paragraph financial plan, when a page feels long",
+      "dek": "The shortest plan that still helps.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-one-line-financial-plan-for-the-years-that-fit-on-a-sti",
+      "title": "How to write a one-line financial plan, for the years that fit on a sticky",
+      "dek": "A whole north star, on three inches of paper.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-single-sober-ledger-after-divorce",
+      "title": "How to keep a single, sober ledger after divorce",
+      "dek": "Pen and paper still work.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-paper-budget-that-does-not-collapse-in-march",
+      "title": "How to use a paper budget that does not collapse in March",
+      "dek": "Why digital tools fail and graph-paper does not.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-digital-budget-that-does-not-become-another-chore",
+      "title": "How to use a digital budget that does not become another chore",
+      "dek": "Three apps, one rule: stop opening more.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-the-envelope-method-modernized",
+      "title": "How to use the envelope method, modernized",
+      "dek": "Cash for some categories, cards for others.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-the-zero-based-budget-without-losing-your-mind",
+      "title": "How to use the zero-based budget without losing your mind",
+      "dek": "Every dollar has a job; not every job is heroic.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-50-30-20-budget-when-alimony-is-in-the-mix",
+      "title": "How to use a 50/30/20 budget when alimony is in the mix",
+      "dek": "Fifty for needs, thirty for wants, twenty for the future.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-60-20-20-budget-when-child-support-is-in-the-mix",
+      "title": "How to use a 60/20/20 budget when child support is in the mix",
+      "dek": "Slightly tighter on needs; the future still gets fed.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-70-10-20-budget-after-a-forced-sale-of-the-home",
+      "title": "How to use a 70/10/20 budget after a forced-sale of the home",
+      "dek": "Recovery years deserve breathing room.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-sinking-fund-system-for-big-irregular-costs",
+      "title": "How to use a sinking-fund system for big-irregular costs",
+      "dek": "Furnaces, tires, root-canals: predictable, even when surprising.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-lump-sum-windfalls-in-year-one",
+      "title": "How to think about lump-sum windfalls in year one",
+      "dek": "Slowly, slowly, the lump becomes a plan.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-lump-sum-windfalls-in-year-three",
+      "title": "How to think about lump-sum windfalls in year three",
+      "dek": "Growth, not rescue.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-lump-sum-windfalls-in-year-five",
+      "title": "How to think about lump-sum windfalls in year five",
+      "dek": "A patient plan ages well.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-down-your-financial-goals-so-you-can-see-them-on-sundays",
+      "title": "How to write down your financial goals so you can see them on Sundays",
+      "dek": "Write large; tape to the fridge.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-down-your-financial-fears-so-they-can-lose-their-power",
+      "title": "How to write down your financial fears so they can lose their power",
+      "dek": "Fear named is fear halved.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-down-your-money-values-so-the-goals-match-the-life",
+      "title": "How to write down your money values so the goals match the life",
+      "dek": "Values first; tactics second.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-automatic-transfers-that-act-like-a-small-army",
+      "title": "How to set up automatic transfers that act like a small army",
+      "dek": "Pay-yourself-first, in three pulls.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-an-automatic-emergency-fund-flow",
+      "title": "How to set up an automatic emergency-fund flow",
+      "dek": "Small, frequent, invisible.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-automatic-retirement-contributions-in-year-one",
+      "title": "How to set up automatic retirement contributions in year one",
+      "dek": "Even ten percent of nothing becomes something.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-automatic-kid-college-contributions-when-you-can-spare-i",
+      "title": "How to set up automatic kid-college contributions when you can spare it",
+      "dek": "Small, slow, steady; do not bail out the future.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-automatic-charity-contributions-modestly",
+      "title": "How to set up automatic charity contributions, modestly",
+      "dek": "Generosity is a budget line.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-set-up-automatic-bill-pay-without-losing-track",
+      "title": "How to set up automatic bill-pay without losing track",
+      "dek": "Auto-pay plus a calendar reminder.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-track-expenses-without-becoming-a-spreadsheet-hostage",
+      "title": "How to track expenses without becoming a spreadsheet hostage",
+      "dek": "Round to the nearest dollar; do not chase pennies.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-track-income-without-becoming-a-spreadsheet-hostage",
+      "title": "How to track income without becoming a spreadsheet hostage",
+      "dek": "Two numbers: gross, net.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-track-net-worth-annually-in-five-minutes",
+      "title": "How to track net worth annually, in five minutes",
+      "dek": "One screenshot a year.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-track-net-worth-quarterly-in-fifteen-minutes",
+      "title": "How to track net worth quarterly, in fifteen minutes",
+      "dek": "A gentle drumbeat.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-track-net-worth-monthly-in-twenty-minutes",
+      "title": "How to track net worth monthly, in twenty minutes",
+      "dek": "For the years you need to see the trend.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-money-diary-that-is-not-embarrassing",
+      "title": "How to keep a money diary that is not embarrassing",
+      "dek": "Numbers and feelings on the same page.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-money-calendar-that-does-not-nag",
+      "title": "How to keep a money calendar that does not nag",
+      "dek": "One page per month, on the wall.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-money-journal-for-the-kids-financial-story",
+      "title": "How to keep a money journal for the kids' financial story",
+      "dek": "What they will inherit besides assets.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-money-journal-for-the-long-form-story-of-a-recovery",
+      "title": "How to keep a money journal for the long-form story of a recovery",
+      "dek": "A book you will reread one day.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-a-1-savings-rate-increase-per-year",
+      "title": "How to think about a 1% savings rate increase per year",
+      "dek": "Five years from now, the math is generous.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-a-2-income-increase-request-per-year",
+      "title": "How to think about a 2% income increase request per year",
+      "dek": "Ask, calmly, with numbers.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-reducing-fixed-costs-by-5-in-one-quarter",
+      "title": "How to think about reducing fixed costs by 5% in one quarter",
+      "dek": "Cut friction; not joy.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-think-about-increasing-variable-income-by-10-in-one-quarter",
+      "title": "How to think about increasing variable income by 10% in one quarter",
+      "dek": "Two extra clients; one extra shift.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-no-spend-week-without-making-it-spiritual",
+      "title": "How to do a no-spend week without making it spiritual",
+      "dek": "Keep the kettle on.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-no-spend-month-without-making-it-spiritual",
+      "title": "How to do a no-spend month without making it spiritual",
+      "dek": "It is just a month.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-no-restaurant-month-without-making-it-spiritual",
+      "title": "How to do a no-restaurant month without making it spiritual",
+      "dek": "Eat at the kitchen table.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-no-amazon-month-without-making-it-spiritual",
+      "title": "How to do a no-Amazon month without making it spiritual",
+      "dek": "Local stores still exist.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-low-information-money-diet-for-thirty-days",
+      "title": "How to do a low-information money diet for thirty days",
+      "dek": "No financial Twitter; no panic.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-low-comparison-money-diet-for-sixty-days",
+      "title": "How to do a low-comparison money diet for sixty days",
+      "dek": "Do not look in the neighbor's bank account.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-do-a-low-future-money-diet-for-ninety-days",
+      "title": "How to do a low-future money diet for ninety days",
+      "dek": "Just this season; just these numbers.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-friend-gently",
+      "title": "How to host a money night-in with a friend, gently",
+      "dek": "Two notebooks, one bottle of wine, no advice.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-two-friends-gently",
+      "title": "How to host a money night-in with two friends, gently",
+      "dek": "Three quiet women, three quiet plans.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-sister-gently",
+      "title": "How to host a money night-in with a sister, gently",
+      "dek": "Family money is hard; do it anyway.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-brother-gently",
+      "title": "How to host a money night-in with a brother, gently",
+      "dek": "He has fears too; just different.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-parent-gently",
+      "title": "How to host a money night-in with a parent, gently",
+      "dek": "Eldercare on the horizon.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-an-adult-child-gently",
+      "title": "How to host a money night-in with an adult child, gently",
+      "dek": "Stay out of the bank account; stay in the conversation.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-co-parent-gently",
+      "title": "How to host a money night-in with a co-parent, gently",
+      "dek": "Calm, kind, and short.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-host-a-money-night-in-with-a-future-partner-gently",
+      "title": "How to host a money night-in with a future partner, gently",
+      "dek": "Before the move-in; not after.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-make-a-calm-bedtime-ritual-to-stop-money-rumination",
+      "title": "How to make a calm bedtime ritual to stop money rumination",
+      "dek": "A book you read every night for a week.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-make-a-calm-morning-ritual-to-stop-money-rumination",
+      "title": "How to make a calm morning ritual to stop money rumination",
+      "dek": "Three columns of gratitude on a page.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-make-a-calm-afternoon-ritual-to-interrupt-money-rumination",
+      "title": "How to make a calm afternoon ritual to interrupt money rumination",
+      "dek": "Step outside; touch a tree.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-love-letter-to-your-future-self-financial-life",
+      "title": "How to write a love letter to your future-self financial life",
+      "dek": "Not a vision board; a letter.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-thank-you-letter-to-your-past-self-for-surviving",
+      "title": "How to write a thank-you letter to your past-self for surviving",
+      "dek": "Past-you did real work.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-goodbye-letter-to-a-money-story-you-no-longer-believe",
+      "title": "How to write a goodbye letter to a money story you no longer believe",
+      "dek": "Old beliefs deserve a funeral.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-forgiveness-letter-for-a-past-financial-mistake",
+      "title": "How to write a forgiveness letter for a past financial mistake",
+      "dek": "Forgiveness is a budget line.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-forgiveness-letter-for-an-ex-s-financial-mistake",
+      "title": "How to write a forgiveness letter for an ex's financial mistake",
+      "dek": "Without naming it; without sending it.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-write-a-contract-with-yourself-for-the-next-twelve-months",
+      "title": "How to write a contract with yourself for the next twelve months",
+      "dek": "Three lines; signed; dated.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-keep-a-small-altar-with-one-money-intention-card",
+      "title": "How to keep a small altar with one money intention card",
+      "dek": "A house has many altars.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-chime-candle-or-small-bell-to-bookend-money-sunday",
+      "title": "How to use a chime, candle, or small bell to bookend Money Sunday",
+      "dek": "Ritual lowers cortisol.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-use-a-sage-or-palo-santo-bundle-without-burning-the-house-down",
+      "title": "How to use a sage or palo-santo bundle without burning the house down",
+      "dek": "A small ritual; a calm home.",
+      "category": "calm-plan"
+    },
+    {
+      "slug": "how-to-read-your-credit-report-after-divorce-line-by-line",
+      "title": "How to read your credit report after divorce, line by line",
+      "dek": "The four bureaus; the slow read.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-dispute-an-error-on-your-credit-report-after-divorce",
+      "title": "How to dispute an error on your credit report after divorce",
+      "dek": "The form, the timeline, the patience.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-remove-an-authorized-user-account-that-is-no-longer-yours",
+      "title": "How to remove an authorized-user account that is no longer yours",
+      "dek": "A short letter to the bureau.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-close-a-joint-card-without-harming-your-credit-score",
+      "title": "How to close a joint card without harming your credit score",
+      "dek": "Pay it off; convert; close.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-convert-a-joint-card-to-an-individual-card",
+      "title": "How to convert a joint card to an individual card",
+      "dek": "Two paths: reissue or new account.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-negotiate-down-a-joint-balance-before-splitting",
+      "title": "How to negotiate down a joint balance before splitting",
+      "dek": "Hardship calls.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-a-joint-charge-off-after-divorce",
+      "title": "How to handle a joint charge-off after divorce",
+      "dek": "Both names follow the debt.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-a-joint-collections-account-after-divorce",
+      "title": "How to handle a joint collections account after divorce",
+      "dek": "Settle in writing.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-rebuild-credit-with-a-secured-card-after-divorce",
+      "title": "How to rebuild credit with a secured card after divorce",
+      "dek": "Six months of perfect history.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-rebuild-credit-with-a-credit-builder-loan-after-divorce",
+      "title": "How to rebuild credit with a credit-builder loan after divorce",
+      "dek": "Small, slow, certain.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-rebuild-credit-with-a-self-lender-account-after-divorce",
+      "title": "How to rebuild credit with a self-lender account after divorce",
+      "dek": "A modern variation on the old idea.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-use-a-small-store-card-to-rebuild-credit-safely",
+      "title": "How to use a small store card to rebuild credit safely",
+      "dek": "Low limit; low temptation.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-graduate-from-a-secured-card-to-an-unsecured-card",
+      "title": "How to graduate from a secured card to an unsecured card",
+      "dek": "When; how; what to expect.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-time-a-credit-limit-increase-request-after-divorce",
+      "title": "How to time a credit-limit-increase request after divorce",
+      "dek": "Six months; clean history; ask politely.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-time-a-balance-transfer-offer-in-year-one-of-recovery",
+      "title": "How to time a balance-transfer offer in year one of recovery",
+      "dek": "Move debt; do not multiply it.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-time-a-0-intro-apr-card-without-paying-transfer-fees",
+      "title": "How to time a 0% intro APR card without paying transfer fees",
+      "dek": "There are still a few; here are the patterns.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-time-a-low-fixed-apr-personal-loan-to-pay-off-cards",
+      "title": "How to time a low-fixed-APR personal loan to pay off cards",
+      "dek": "Consolidation only works with a closed-card commitment.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-read-a-credit-card-statement-for-hidden-fees-after-divorce",
+      "title": "How to read a credit-card statement for hidden fees after divorce",
+      "dek": "Cash advances; foreign-transaction; balance transfer.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-late-fees-gracefully-after-divorce",
+      "title": "How to handle late fees gracefully after divorce",
+      "dek": "Call once; ask once; pay once.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-interest-rate-hikes-gracefully-after-divorce",
+      "title": "How to handle interest-rate hikes gracefully after divorce",
+      "dek": "The CARD Act, the polite-but-firm letter.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-use-credit-card-travel-benefits-without-spending-more",
+      "title": "How to use credit-card travel benefits without spending more",
+      "dek": "Free is free; not enticement.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-use-credit-card-cash-back-without-spending-more",
+      "title": "How to use credit-card cash-back without spending more",
+      "dek": "Plan the categories; let the rewards follow.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-a-no-fee-credit-card-calendar-that-protects-your-score",
+      "title": "How to set up a no-fee credit card calendar that protects your score",
+      "dek": "One charge a month; one auto-pay.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-a-credit-freeze-across-the-three-bureaus",
+      "title": "How to set up a credit-freeze across the three bureaus",
+      "dek": "Equifax, Experian, TransUnion; ten minutes.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-a-fraud-alert-across-the-three-bureaus",
+      "title": "How to set up a fraud alert across the three bureaus",
+      "dek": "A lighter version of a freeze.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-read-your-fico-8-vs-fico-9-vs-vantagescore-after-divorce",
+      "title": "How to read your FICO 8 vs. FICO 9 vs. VantageScore after divorce",
+      "dek": "Different scales; same direction.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-a-credit-score-drop-in-the-first-quarter-after-divorce",
+      "title": "How to handle a credit-score drop in the first quarter after divorce",
+      "dek": "Closing accounts moves the curve.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-a-credit-score-recovery-by-month-nine",
+      "title": "How to handle a credit-score recovery by month nine",
+      "dek": "The patience curve at work.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-think-about-credit-utilization-in-year-one",
+      "title": "How to think about credit utilization in year one",
+      "dek": "Below 30%; above 0%.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-think-about-credit-mix-after-divorce",
+      "title": "How to think about credit-mix after divorce",
+      "dek": "Add a small installment loan calmly.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-think-about-credit-history-length-after-a-closed-joint-card",
+      "title": "How to think about credit-history length after a closed joint card",
+      "dek": "The average ages; you do not lose history overnight.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-think-about-new-credit-inquiries-during-a-refinance",
+      "title": "How to think about new-credit inquiries during a refinance",
+      "dek": "Ration the inquiries; cluster the shopping.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-think-about-on-time-payment-percent-in-year-one",
+      "title": "How to think about on-time payment percent in year one",
+      "dek": "100%; that is the goal.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-read-your-free-annual-credit-report-from-the-three-bureaus",
+      "title": "How to read your free annual credit report from the three bureaus",
+      "dek": "annualcreditreport.gov, week one.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-credit-karma-alerts-without-becoming-anxious",
+      "title": "How to set up Credit Karma alerts without becoming anxious",
+      "dek": "Alerts on; notifications on Sundays.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-experian-boost-without-becoming-anxious",
+      "title": "How to set up Experian Boost without becoming anxious",
+      "dek": "Add utilities; small uplift.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-self-credit-builder-without-becoming-anxious",
+      "title": "How to set up Self credit-builder without becoming anxious",
+      "dek": "Small monthly payment; small future loan.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-kikoff-credit-builder-without-becoming-anxious",
+      "title": "How to set up Kikoff credit-builder without becoming anxious",
+      "dek": "Quiet, slow accounts.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-set-up-chime-credit-builder-without-becoming-anxious",
+      "title": "How to set up Chime Credit Builder without becoming anxious",
+      "dek": "A debit-card pretending to be credit.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-use-a-petal-card-or-tomo-card-after-divorce",
+      "title": "How to use a Petal card or Tomo card after divorce",
+      "dek": "Cash-flow underwriting can save you.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-read-collection-letter-language-without-panicking",
+      "title": "How to read collection-letter language without panicking",
+      "dek": "Validate; document; respond once.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-medical-collections-after-divorce",
+      "title": "How to handle medical-collections after divorce",
+      "dek": "The 2022 changes; the slow path.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-credit-card-collections-after-divorce",
+      "title": "How to handle credit-card collections after divorce",
+      "dek": "Statute-of-limitations clock; settle calmly.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-student-loan-collections-after-divorce",
+      "title": "How to handle student-loan collections after divorce",
+      "dek": "Federal vs. private; rehabilitation paths.",
+      "category": "credit"
+    },
+    {
+      "slug": "how-to-handle-utility-collections-after-divorce",
+      "title": "How to handle utility collections after divorce",
+      "dek": "Local utilities are oddly forgiving.",
+      "category": "credit"
+    },
+    {
+      "slug": "filing-status-year-one-decision-single-head-of-household-or-joint",
+      "title": "Filing status year-one decision: single, head of household, or joint",
+      "dek": "The 50% rule for support; the legal-decree rule.",
+      "category": "taxes"
+    },
+    {
+      "slug": "filing-status-year-two-decision-when-alimony-lands-on-the-return",
+      "title": "Filing status year-two decision: when alimony lands on the return",
+      "dek": "Pre-2019 vs. post-2018 alimony; the world changed.",
+      "category": "taxes"
+    },
+    {
+      "slug": "innocent-spouse-relief-in-plain-english",
+      "title": "Innocent-spouse relief, in plain English",
+      "dek": "Form 8857; what you need; what you do not.",
+      "category": "taxes"
+    },
+    {
+      "slug": "injured-spouse-relief-in-plain-english",
+      "title": "Injured-spouse relief, in plain English",
+      "dek": "Form 8379; refund-offset protection.",
+      "category": "taxes"
+    },
+    {
+      "slug": "equitable-relief-in-plain-english",
+      "title": "Equitable-relief, in plain English",
+      "dek": "When innocent-spouse and injured-spouse do not fit.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-amend-a-joint-return-after-divorce",
+      "title": "How to amend a joint return after divorce",
+      "dek": "Form 1040-X; both signatures, sometimes.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-amend-a-single-return-after-a-divorce-related-correction",
+      "title": "How to amend a single return after a divorce-related correction",
+      "dek": "When the right answer is changing the past.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-8332-release-of-claim-to-child",
+      "title": "Reading IRS Form 8332 (release of claim to child)",
+      "dek": "Whoever has the form claims the kid.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-8379-injured-spouse-line-by-line",
+      "title": "Reading IRS Form 8379 (injured spouse) line by line",
+      "dek": "Where you write the wages; where you write the offsets.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-8857-innocent-spouse-line-by-line",
+      "title": "Reading IRS Form 8857 (innocent spouse) line by line",
+      "dek": "The narrative section is the heart of the form.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-1040-schedule-1-line-by-line-after-divorce",
+      "title": "Reading IRS Form 1040 Schedule 1 line by line, after divorce",
+      "dek": "Alimony, retirement-account distributions, the additional income.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-1040-schedule-2-line-by-line-after-divorce",
+      "title": "Reading IRS Form 1040 Schedule 2 line by line, after divorce",
+      "dek": "Penalties, additional taxes, the AMT line.",
+      "category": "taxes"
+    },
+    {
+      "slug": "reading-irs-form-1040-schedule-3-line-by-line-after-divorce",
+      "title": "Reading IRS Form 1040 Schedule 3 line by line, after divorce",
+      "dek": "Credits, payments, and the refund line.",
+      "category": "taxes"
+    },
+    {
+      "slug": "quarterly-estimated-taxes-for-the-newly-self-employed-after-divorce",
+      "title": "Quarterly estimated taxes for the newly self-employed after divorce",
+      "dek": "Form 1040-ES; April 15, June 15, September 15, January 15.",
+      "category": "taxes"
+    },
+    {
+      "slug": "quarterly-estimated-taxes-for-the-alimony-recipient",
+      "title": "Quarterly estimated taxes for the alimony recipient",
+      "dek": "Withholding from a job is not enough.",
+      "category": "taxes"
+    },
+    {
+      "slug": "quarterly-estimated-taxes-for-the-brokerage-account-inheritor",
+      "title": "Quarterly estimated taxes for the brokerage-account inheritor",
+      "dek": "Capital-gain distributions arrive in December.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-state-taxes-after-a-cross-state-divorce",
+      "title": "How to think about state taxes after a cross-state divorce",
+      "dek": "Two-state returns and the part-year rule.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-state-taxes-when-one-spouse-moves-and-the-other-doe",
+      "title": "How to think about state taxes when one spouse moves and the other does not",
+      "dek": "Domicile vs. residency.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-local-taxes-after-divorce-in-a-city-like-nyc-or-phi",
+      "title": "How to think about local taxes after divorce in a city like NYC or Philly",
+      "dek": "Local rates layer on top.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-property-taxes-after-divorce-when-one-spouse-keeps-",
+      "title": "How to think about property taxes after divorce when one spouse keeps the house",
+      "dek": "The deduction that follows the title.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-tax-extension-in-the-first-year-of-divorce",
+      "title": "How to think about a tax extension in the first year of divorce",
+      "dek": "Form 4868; an extension to file, not to pay.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-tax-payment-plan-in-year-one",
+      "title": "How to think about a tax-payment plan in year one",
+      "dek": "Form 9465; the IRS likes a plan.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-an-offer-in-compromise-in-year-one",
+      "title": "How to think about an offer-in-compromise in year one",
+      "dek": "Form 656; only when the math is real.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-state-tax-payment-plan-after-divorce",
+      "title": "How to think about a state-tax payment plan after divorce",
+      "dek": "States vary; many are kinder than the IRS.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-choose-between-turbotax-freetaxusa-and-a-cpa-in-year-one",
+      "title": "How to choose between TurboTax, FreeTaxUSA, and a CPA in year one",
+      "dek": "Your situation got more complex; what really fits.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-choose-a-cpa-after-divorce-in-five-questions",
+      "title": "How to choose a CPA after divorce, in five questions",
+      "dek": "Tenure, fees, communication, calendar, audit history.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-choose-an-enrolled-agent-after-divorce-in-five-questions",
+      "title": "How to choose an enrolled agent after divorce, in five questions",
+      "dek": "EAs are tax specialists, often gentle and affordable.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-backup-withholding-after-divorce",
+      "title": "How to think about backup withholding after divorce",
+      "dek": "Form W-9 changes; payer behavior follows.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-w-4-changes-after-divorce",
+      "title": "How to think about W-4 changes after divorce",
+      "dek": "Two jobs, one spouse, one form.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-an-ira-contribution-after-divorce",
+      "title": "How to think about an IRA contribution after divorce",
+      "dek": "Earned income; income limits; spousal IRA gone.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-roth-ira-contribution-after-divorce",
+      "title": "How to think about a Roth IRA contribution after divorce",
+      "dek": "MAGI limits; the back-door dance.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-non-deductible-ira-contribution-after-divorce",
+      "title": "How to think about a non-deductible IRA contribution after divorce",
+      "dek": "Basis; Form 8606; the long arc.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-backdoor-roth-after-divorce",
+      "title": "How to think about a backdoor Roth after divorce",
+      "dek": "Pro-rata rule; clean-IRA prerequisite.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-roth-conversion-after-divorce",
+      "title": "How to think about a Roth conversion after divorce",
+      "dek": "Marginal-rate windows in low-income years.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-401-k-catch-up-contribution-at-age-50-after-divor",
+      "title": "How to think about a 401(k) catch-up contribution at age 50 after divorce",
+      "dek": "Use the runway.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-an-hsa-contribution-after-divorce",
+      "title": "How to think about an HSA contribution after divorce",
+      "dek": "High-deductible plan, triple-tax-advantage.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-coverdell-esa-after-divorce",
+      "title": "How to think about a Coverdell ESA after divorce",
+      "dek": "$2,000 per year, per kid.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-529-plan-contribution-after-divorce",
+      "title": "How to think about a 529 plan contribution after divorce",
+      "dek": "State deduction first; growth second.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-charitable-contribution-after-divorce",
+      "title": "How to think about a charitable contribution after divorce",
+      "dek": "Itemize vs. standard deduction.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-donor-advised-fund-after-divorce",
+      "title": "How to think about a donor-advised fund after divorce",
+      "dek": "Bunching; calm philanthropy.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-a-charitable-ira-distribution-at-70-1-2-after-divor",
+      "title": "How to think about a charitable IRA distribution at 70 1/2 after divorce",
+      "dek": "QCDs are quietly powerful.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-tax-loss-harvesting-after-divorce",
+      "title": "How to think about tax-loss harvesting after divorce",
+      "dek": "Realized losses, replacement securities, the wash-sale rule.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-tax-gain-harvesting-in-a-low-income-year",
+      "title": "How to think about tax-gain harvesting in a low-income year",
+      "dek": "Zero capital-gains bracket exists.",
+      "category": "taxes"
+    },
+    {
+      "slug": "how-to-think-about-nua-net-unrealized-appreciation-at-divorce",
+      "title": "How to think about NUA (net unrealized appreciation) at divorce",
+      "dek": "Company stock in a 401(k); the special rule.",
+      "category": "taxes"
+    },
+    {
+      "slug": "returning-to-work-after-a-long-pause-with-calm",
+      "title": "Returning to work after a long pause, with calm",
+      "dek": "The story you tell about the years between.",
+      "category": "career"
+    },
+    {
+      "slug": "negotiating-a-salary-you-can-defend-after-a-long-pause",
+      "title": "Negotiating a salary you can defend, after a long pause",
+      "dek": "Numbers; market data; one calm phrase.",
+      "category": "career"
+    },
+    {
+      "slug": "negotiating-an-offer-when-you-are-the-sole-breadwinner-now",
+      "title": "Negotiating an offer when you are the sole breadwinner now",
+      "dek": "Push for benefits; not just base.",
+      "category": "career"
+    },
+    {
+      "slug": "negotiating-a-raise-when-alimony-is-ending-in-three-years",
+      "title": "Negotiating a raise when alimony is ending in three years",
+      "dek": "Match the raise to the runway.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-for-medical-insurance-after-divorce",
+      "title": "Choosing a job for medical-insurance after divorce",
+      "dek": "The benefits package is real money.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-for-a-401-k-match-after-divorce",
+      "title": "Choosing a job for a 401(k) match after divorce",
+      "dek": "A 4% match is a 4% raise.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-for-a-pension-that-still-exists",
+      "title": "Choosing a job for a pension that still exists",
+      "dek": "Public-sector, union, and the few private holdouts.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-with-paid-family-leave-after-divorce",
+      "title": "Choosing a job with paid family leave after divorce",
+      "dek": "States with paid leave; how to use it.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-with-predictable-hours-when-you-are-co-parenting",
+      "title": "Choosing a job with predictable hours when you are co-parenting",
+      "dek": "Schedule is a benefit.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-with-hybrid-flexibility-when-you-are-co-parenting",
+      "title": "Choosing a job with hybrid flexibility when you are co-parenting",
+      "dek": "Two-days-in, three-days-home math.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-at-a-small-company-when-you-are-co-parenting",
+      "title": "Choosing a job at a small company when you are co-parenting",
+      "dek": "Smaller companies often more flexible than the brochure says.",
+      "category": "career"
+    },
+    {
+      "slug": "choosing-a-job-at-a-large-company-when-you-are-co-parenting",
+      "title": "Choosing a job at a large company when you are co-parenting",
+      "dek": "Better benefits; more rigid hours.",
+      "category": "career"
+    },
+    {
+      "slug": "switching-industries-after-divorce-with-calm",
+      "title": "Switching industries after divorce, with calm",
+      "dek": "Transferable skills; storytelling; networking.",
+      "category": "career"
+    },
+    {
+      "slug": "going-back-to-school-after-divorce-on-a-budget",
+      "title": "Going back to school after divorce, on a budget",
+      "dek": "Community college, certificate programs, free MOOCs.",
+      "category": "career"
+    },
+    {
+      "slug": "earning-a-professional-certificate-after-divorce-in-90-days",
+      "title": "Earning a professional certificate after divorce, in 90 days",
+      "dek": "PMP, AWS, CFP, CPA basics; choose one.",
+      "category": "career"
+    },
+    {
+      "slug": "earning-a-real-estate-license-after-divorce-in-six-months",
+      "title": "Earning a real-estate license after divorce, in six months",
+      "dek": "A second income, by appointment.",
+      "category": "career"
+    },
+    {
+      "slug": "earning-a-notary-commission-after-divorce-in-three-weeks",
+      "title": "Earning a notary commission after divorce, in three weeks",
+      "dek": "A small but real side income.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-bookkeeper-after-divorce-in-six-months",
+      "title": "Becoming a paid bookkeeper after divorce, in six months",
+      "dek": "QuickBooks, recurring clients, modest hours.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-copy-editor-after-divorce-in-six-months",
+      "title": "Becoming a paid copy editor after divorce, in six months",
+      "dek": "Style guides, recurring clients, modest hours.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-private-tutor-after-divorce-in-three-months",
+      "title": "Becoming a paid private tutor after divorce, in three months",
+      "dek": "Local market; predictable evenings.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-music-teacher-after-divorce-in-three-months",
+      "title": "Becoming a paid music teacher after divorce, in three months",
+      "dek": "Lessons after school; weekend recitals.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-yoga-teacher-after-divorce-in-six-months",
+      "title": "Becoming a paid yoga teacher after divorce, in six months",
+      "dek": "Studios, gyms, private clients.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-pilates-teacher-after-divorce-in-twelve-months",
+      "title": "Becoming a paid pilates teacher after divorce, in twelve months",
+      "dek": "Reformer training is an investment.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-massage-therapist-after-divorce-in-twelve-months",
+      "title": "Becoming a paid massage therapist after divorce, in twelve months",
+      "dek": "Licensure varies; demand does not.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-therapist-later-in-life-with-calm",
+      "title": "Becoming a paid therapist later in life, with calm",
+      "dek": "MSW, LCSW, the long road.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-coach-after-divorce-with-calm",
+      "title": "Becoming a paid coach after divorce, with calm",
+      "dek": "Choose a niche; stand for it.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-consultant-in-the-field-you-already-know",
+      "title": "Becoming a paid consultant in the field you already know",
+      "dek": "Senior expertise sells.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-freelance-writer-after-divorce",
+      "title": "Becoming a paid freelance writer after divorce",
+      "dek": "Pitches; clips; boring trade publications.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-freelance-designer-after-divorce",
+      "title": "Becoming a paid freelance designer after divorce",
+      "dek": "Templates, niches, agencies.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-freelance-photographer-after-divorce",
+      "title": "Becoming a paid freelance photographer after divorce",
+      "dek": "Weddings, portraits, headshots.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-etsy-shop-owner-after-divorce",
+      "title": "Becoming a paid Etsy-shop owner after divorce",
+      "dek": "Niche; volume; patience.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-airbnb-co-host-after-divorce",
+      "title": "Becoming a paid AirBnB co-host after divorce",
+      "dek": "Local market; recurring clients.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-pet-sitter-via-rover-after-divorce",
+      "title": "Becoming a paid pet sitter via Rover after divorce",
+      "dek": "Reliable, low-friction.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-house-cleaner-with-a-small-route-after-divorce",
+      "title": "Becoming a paid house cleaner with a small route after divorce",
+      "dek": "Repeat clients; cash flow.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-school-bus-driver-after-divorce",
+      "title": "Becoming a paid school bus driver after divorce",
+      "dek": "Stable hours; benefits in some districts.",
+      "category": "career"
+    },
+    {
+      "slug": "becoming-a-paid-delivery-driver-after-divorce-with-eyes-open",
+      "title": "Becoming a paid delivery driver after divorce, with eyes open",
+      "dek": "Mileage, taxes, and the real take-home.",
+      "category": "career"
+    },
+    {
+      "slug": "building-a-quiet-linkedin-presence-after-divorce",
+      "title": "Building a quiet LinkedIn presence after divorce",
+      "dek": "Three posts a week; not influencer-style.",
+      "category": "career"
+    },
+    {
+      "slug": "writing-a-quiet-about-section-on-linkedin-after-divorce",
+      "title": "Writing a quiet about-section on LinkedIn after divorce",
+      "dek": "Tell the story; then tell the work.",
+      "category": "career"
+    },
+    {
+      "slug": "writing-a-quiet-resume-after-divorce",
+      "title": "Writing a quiet resume after divorce",
+      "dek": "Skills first; gaps last.",
+      "category": "career"
+    },
+    {
+      "slug": "writing-a-quiet-cover-letter-after-divorce",
+      "title": "Writing a quiet cover letter after divorce",
+      "dek": "Specific; warm; brief.",
+      "category": "career"
+    },
+    {
+      "slug": "setting-up-a-small-landing-page-for-freelance-work-after-divorce",
+      "title": "Setting up a small landing page for freelance work after divorce",
+      "dek": "One page; one phone number.",
+      "category": "career"
+    },
+    {
+      "slug": "setting-up-a-calendly-link-that-protects-your-evenings",
+      "title": "Setting up a Calendly link that protects your evenings",
+      "dek": "Working hours that match your life.",
+      "category": "career"
+    },
+    {
+      "slug": "setting-up-a-small-invoicing-system-after-divorce",
+      "title": "Setting up a small invoicing system after divorce",
+      "dek": "Wave, FreshBooks, or a Google Doc.",
+      "category": "career"
+    },
+    {
+      "slug": "setting-up-a-small-accounting-system-after-divorce",
+      "title": "Setting up a small accounting system after divorce",
+      "dek": "QuickBooks Self-Employed, or a spreadsheet.",
+      "category": "career"
+    },
+    {
+      "slug": "health-insurance-the-day-after-divorce-cobra-vs-marketplace",
+      "title": "Health insurance the day after divorce: COBRA vs. marketplace",
+      "dek": "Cost, network, deadlines.",
+      "category": "insurance"
+    },
+    {
+      "slug": "health-insurance-year-one-choosing-a-marketplace-plan-with-care",
+      "title": "Health insurance year one: choosing a marketplace plan with care",
+      "dek": "Premium tax credit; bronze, silver, gold.",
+      "category": "insurance"
+    },
+    {
+      "slug": "health-insurance-year-two-re-enrollment-and-life-changes",
+      "title": "Health insurance year two: re-enrollment and life changes",
+      "dek": "What the special enrollment period is for.",
+      "category": "insurance"
+    },
+    {
+      "slug": "dental-insurance-after-divorce-what-is-worth-it",
+      "title": "Dental insurance after divorce: what is worth it",
+      "dek": "Cleanings; not crowns.",
+      "category": "insurance"
+    },
+    {
+      "slug": "vision-insurance-after-divorce-what-is-worth-it",
+      "title": "Vision insurance after divorce: what is worth it",
+      "dek": "Often a wash with cash pricing.",
+      "category": "insurance"
+    },
+    {
+      "slug": "life-insurance-after-divorce-term-vs-whole-vs-nothing",
+      "title": "Life insurance after divorce: term vs. whole vs. nothing",
+      "dek": "Most people, term.",
+      "category": "insurance"
+    },
+    {
+      "slug": "life-insurance-for-an-alimony-stream",
+      "title": "Life insurance for an alimony stream",
+      "dek": "Match the term to the alimony years.",
+      "category": "insurance"
+    },
+    {
+      "slug": "life-insurance-for-a-child-support-stream",
+      "title": "Life insurance for a child-support stream",
+      "dek": "Match the term to the youngest child's age.",
+      "category": "insurance"
+    },
+    {
+      "slug": "disability-insurance-after-divorce-short-term-and-long-term",
+      "title": "Disability insurance after divorce: short-term and long-term",
+      "dek": "The income protection most miss.",
+      "category": "insurance"
+    },
+    {
+      "slug": "long-term-care-insurance-after-divorce-in-your-fifties",
+      "title": "Long-term-care insurance after divorce in your fifties",
+      "dek": "The window narrows; the math sharpens.",
+      "category": "insurance"
+    },
+    {
+      "slug": "umbrella-insurance-after-divorce",
+      "title": "Umbrella insurance after divorce",
+      "dek": "$1M for a pittance.",
+      "category": "insurance"
+    },
+    {
+      "slug": "auto-insurance-after-divorce-removing-an-ex-from-the-policy",
+      "title": "Auto insurance after divorce: removing an ex from the policy",
+      "dek": "The right way; the wrong way.",
+      "category": "insurance"
+    },
+    {
+      "slug": "homeowner-insurance-after-divorce-who-is-on-the-policy",
+      "title": "Homeowner insurance after divorce: who is on the policy",
+      "dek": "Title and policy must agree.",
+      "category": "insurance"
+    },
+    {
+      "slug": "renter-insurance-after-divorce-starter-coverage",
+      "title": "Renter insurance after divorce: starter coverage",
+      "dek": "$15-$25 a month; sleep better.",
+      "category": "insurance"
+    },
+    {
+      "slug": "pet-insurance-after-divorce-when-you-keep-the-dog",
+      "title": "Pet insurance after divorce when you keep the dog",
+      "dek": "Premiums; pre-existing conditions; the math.",
+      "category": "insurance"
+    },
+    {
+      "slug": "travel-insurance-after-divorce-when-you-travel-with-kids",
+      "title": "Travel insurance after divorce when you travel with kids",
+      "dek": "Flight delays; medical evacuation; modest premiums.",
+      "category": "insurance"
+    },
+    {
+      "slug": "identity-theft-insurance-after-divorce",
+      "title": "Identity-theft insurance after divorce",
+      "dek": "Most credit cards include it now.",
+      "category": "insurance"
+    },
+    {
+      "slug": "cyber-insurance-for-the-small-business-owner-after-divorce",
+      "title": "Cyber-insurance for the small business owner after divorce",
+      "dek": "If you store client data.",
+      "category": "insurance"
+    },
+    {
+      "slug": "earthquake-or-flood-insurance-after-divorce-in-a-higher-risk-zone",
+      "title": "Earthquake or flood insurance after divorce in a higher-risk zone",
+      "dek": "Federal vs. private.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-cancel-a-joint-life-insurance-policy-after-divorce",
+      "title": "How to cancel a joint life-insurance policy after divorce",
+      "dek": "A short letter; a final premium.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-convert-a-joint-term-policy-to-two-individual-policies",
+      "title": "How to convert a joint term policy to two individual policies",
+      "dek": "Some policies allow it; many do not.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-401-k-after-divorce",
+      "title": "How to update beneficiaries on a 401(k) after divorce",
+      "dek": "ERISA still requires a spousal waiver in some cases.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-an-ira-after-divorce",
+      "title": "How to update beneficiaries on an IRA after divorce",
+      "dek": "IRAs are simpler; not entirely simple.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-roth-ira-after-divorce",
+      "title": "How to update beneficiaries on a Roth IRA after divorce",
+      "dek": "Same form, smaller stakes.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-brokerage-tod-after-divorce",
+      "title": "How to update beneficiaries on a brokerage TOD after divorce",
+      "dek": "Transfer-on-death is fast and gentle.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-bank-pod-after-divorce",
+      "title": "How to update beneficiaries on a bank POD after divorce",
+      "dek": "Payable-on-death paperwork at the branch.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-529-plan-after-divorce",
+      "title": "How to update beneficiaries on a 529 plan after divorce",
+      "dek": "Owner; successor owner; beneficiary.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-savings-bond-after-divorce",
+      "title": "How to update beneficiaries on a savings bond after divorce",
+      "dek": "TreasuryDirect mailings.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-pension-survivor-benefit-after-divorc",
+      "title": "How to update beneficiaries on a pension survivor benefit after divorce",
+      "dek": "Sometimes locked in by the QDRO.",
+      "category": "insurance"
+    },
+    {
+      "slug": "how-to-update-beneficiaries-on-a-ssdi-ssi-record-after-divorce",
+      "title": "How to update beneficiaries on a SSDI/SSI record after divorce",
+      "dek": "Generally not beneficiary-driven; close the loop anyway.",
+      "category": "insurance"
+    },
+    {
+      "slug": "updating-your-will-the-week-after-divorce",
+      "title": "Updating your will the week after divorce",
+      "dek": "A will that names an ex is a will that needs work.",
+      "category": "estate"
+    },
+    {
+      "slug": "updating-your-healthcare-proxy-the-week-after-divorce",
+      "title": "Updating your healthcare proxy the week after divorce",
+      "dek": "Decisions in a hospital, by someone you trust.",
+      "category": "estate"
+    },
+    {
+      "slug": "updating-your-financial-power-of-attorney-the-week-after-divorce",
+      "title": "Updating your financial power-of-attorney the week after divorce",
+      "dek": "Decisions in a bank, by someone you trust.",
+      "category": "estate"
+    },
+    {
+      "slug": "updating-your-living-will-the-week-after-divorce",
+      "title": "Updating your living will the week after divorce",
+      "dek": "Your wishes, on paper, in advance.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-revocable-living-trust-after-divorce-calmly",
+      "title": "Setting up a revocable living trust after divorce, calmly",
+      "dek": "Avoiding probate; not avoiding work.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-an-irrevocable-life-insurance-trust-after-divorce-with-care",
+      "title": "Setting up an irrevocable life-insurance trust after divorce, with care",
+      "dek": "ILITs at higher net worth.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-special-needs-trust-after-divorce-when-a-child-needs-it",
+      "title": "Setting up a special-needs trust after divorce, when a child needs it",
+      "dek": "Means-tested benefits protected.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-529-ownership-succession-plan-after-divorce",
+      "title": "Setting up a 529 ownership succession plan after divorce",
+      "dek": "Successor owner; second-line beneficiary.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-tod-on-a-brokerage-account-after-divorce",
+      "title": "Setting up TOD on a brokerage account after divorce",
+      "dek": "Transfer-on-death is fast.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-pod-on-a-bank-account-after-divorce",
+      "title": "Setting up POD on a bank account after divorce",
+      "dek": "Payable-on-death is faster.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-guardianship-of-minor-children-plan-after-divorce",
+      "title": "Setting up a guardianship-of-minor-children plan after divorce",
+      "dek": "Two parents, one death; the law writes the rest if you do not.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-successor-trustee-for-a-living-trust-after-divorce",
+      "title": "Setting up a successor-trustee for a living trust after divorce",
+      "dek": "Backups for the backup.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-digital-assets-letter-after-divorce",
+      "title": "Setting up a digital-assets letter after divorce",
+      "dek": "Passwords, photos, cloud accounts.",
+      "category": "estate"
+    },
+    {
+      "slug": "setting-up-a-small-letter-of-instruction-for-the-executor-after-divorc",
+      "title": "Setting up a small letter-of-instruction for the executor after divorce",
+      "dek": "What the will does not say.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-state-estate-tax-thresholds-after-divorce",
+      "title": "How to think about state estate-tax thresholds after divorce",
+      "dek": "Twelve states still tax.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-federal-estate-tax-exemption-after-divorce",
+      "title": "How to think about federal estate-tax exemption after divorce",
+      "dek": "$13.6M in 2026; sunsetting in 2026 to half.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-gift-tax-exclusion-when-funding-a-child-s-life",
+      "title": "How to think about gift-tax exclusion when funding a child's life",
+      "dek": "$18,000 a year; per donor; per donee.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-a-small-estate-administration-in-a-kind-state",
+      "title": "How to think about a small estate-administration in a kind state",
+      "dek": "Some states allow simplified probate under $50k or $100k.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-probate-in-a-hard-state",
+      "title": "How to think about probate in a hard state",
+      "dek": "Florida; California; the long road.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-probate-when-assets-cross-states",
+      "title": "How to think about probate when assets cross states",
+      "dek": "Ancillary probate; what to avoid.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-an-executor-s-job-in-a-single-page",
+      "title": "How to think about an executor's job, in a single page",
+      "dek": "Inventory; pay debts; distribute.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-a-trustee-s-job-in-a-single-page",
+      "title": "How to think about a trustee's job, in a single page",
+      "dek": "Read the trust; serve the beneficiaries; document.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-a-guardian-s-job-in-a-single-page",
+      "title": "How to think about a guardian's job, in a single page",
+      "dek": "Day-to-day care; long-term love.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-a-healthcare-proxy-s-job-in-a-single-page",
+      "title": "How to think about a healthcare proxy's job, in a single page",
+      "dek": "What you would say if you could speak.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-think-about-a-financial-poa-s-job-in-a-single-page",
+      "title": "How to think about a financial POA's job, in a single page",
+      "dek": "Bills; banks; benefit.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-organize-estate-documents-in-one-accordion-folder",
+      "title": "How to organize estate documents in one accordion folder",
+      "dek": "A folder is a love letter.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-organize-estate-documents-in-one-digital-vault",
+      "title": "How to organize estate documents in one digital vault",
+      "dek": "Encrypted; shared with one trusted person.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-organize-estate-documents-in-a-small-fireproof-box-at-home",
+      "title": "How to organize estate documents in a small fireproof box at home",
+      "dek": "Originals; backups elsewhere.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-organize-estate-documents-at-a-safe-deposit-box",
+      "title": "How to organize estate documents at a safe-deposit box",
+      "dek": "Originals are not always best in a box.",
+      "category": "estate"
+    },
+    {
+      "slug": "how-to-organize-estate-documents-with-an-attorney-s-office",
+      "title": "How to organize estate documents with an attorney's office",
+      "dek": "Some attorneys store originals.",
+      "category": "estate"
+    },
+    {
+      "slug": "what-to-do-with-a-large-divorce-settlement-slowly",
+      "title": "What to do with a large divorce settlement, slowly",
+      "dek": "Park first; invest second.",
+      "category": "investing"
+    },
+    {
+      "slug": "what-to-do-with-a-small-divorce-settlement-slowly",
+      "title": "What to do with a small divorce settlement, slowly",
+      "dek": "Emergency fund; taxes; only then growth.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-brokerage-account-after-divorce-fidelity-schwab-vanguard-ot",
+      "title": "Choosing a brokerage account after divorce: Fidelity, Schwab, Vanguard, others",
+      "dek": "Fees, service, the rest.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-roth-ira-at-fidelity-after-divorce",
+      "title": "Setting up a Roth IRA at Fidelity after divorce",
+      "dek": "Open; transfer; choose two funds.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-traditional-ira-at-schwab-after-divorce",
+      "title": "Setting up a Traditional IRA at Schwab after divorce",
+      "dek": "Open; transfer; choose two funds.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-sep-ira-when-you-become-self-employed-after-divorce",
+      "title": "Setting up a SEP IRA when you become self-employed after divorce",
+      "dek": "Owner contributions, plain English.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-solo-401-k-when-you-become-self-employed-after-divorce",
+      "title": "Setting up a Solo 401(k) when you become self-employed after divorce",
+      "dek": "Higher contribution limits; mild paperwork.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-simple-ira-when-you-have-one-or-two-employees",
+      "title": "Setting up a SIMPLE IRA when you have one or two employees",
+      "dek": "Mild paperwork; mild contributions.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-529-at-the-lowest-cost-provider-for-your-state",
+      "title": "Setting up a 529 at the lowest-cost provider for your state",
+      "dek": "State deduction first; then performance.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-an-utma-when-a-529-is-overfunded",
+      "title": "Setting up an UTMA when a 529 is overfunded",
+      "dek": "Beware future financial-aid effects.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-an-hsa-at-fidelity-after-divorce",
+      "title": "Setting up an HSA at Fidelity after divorce",
+      "dek": "Triple tax advantage.",
+      "category": "investing"
+    },
+    {
+      "slug": "setting-up-a-brokerage-tod-after-divorce",
+      "title": "Setting up a brokerage TOD after divorce",
+      "dek": "Beneficiary forms; calm.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-target-date-fund-after-divorce",
+      "title": "Choosing a target-date fund after divorce",
+      "dek": "One fund; one decision.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-three-fund-portfolio-after-divorce",
+      "title": "Choosing a three-fund portfolio after divorce",
+      "dek": "Total US, total international, total bond.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-four-fund-portfolio-after-divorce",
+      "title": "Choosing a four-fund portfolio after divorce",
+      "dek": "Add small-cap; rebalance once a year.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-bogleheads-style-portfolio-after-divorce",
+      "title": "Choosing a Bogleheads-style portfolio after divorce",
+      "dek": "Low-cost; broad-market.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-couch-potato-portfolio-after-divorce",
+      "title": "Choosing a couch-potato portfolio after divorce",
+      "dek": "Modest; steady; calm.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-dividend-tilt-portfolio-after-divorce-with-eyes-open",
+      "title": "Choosing a dividend-tilt portfolio after divorce, with eyes open",
+      "dek": "Dividends are not magic income.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-value-tilt-portfolio-after-divorce-with-patience",
+      "title": "Choosing a value-tilt portfolio after divorce, with patience",
+      "dek": "Long stretches of underperformance.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-small-cap-tilt-portfolio-after-divorce-with-patience",
+      "title": "Choosing a small-cap-tilt portfolio after divorce, with patience",
+      "dek": "Long stretches of underperformance.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-an-international-tilt-portfolio-after-divorce-with-patience",
+      "title": "Choosing an international-tilt portfolio after divorce, with patience",
+      "dek": "Currency adds and subtracts.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-bond-tilt-portfolio-in-a-fifties-divorce",
+      "title": "Choosing a bond-tilt portfolio in a fifties-divorce",
+      "dek": "Glide-path planning, not market-timing.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-tips-allocation-in-a-fifties-divorce",
+      "title": "Choosing a TIPS allocation in a fifties-divorce",
+      "dek": "Inflation-protected, slowly.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-an-i-bond-allocation-after-divorce",
+      "title": "Choosing an I-Bond allocation after divorce",
+      "dek": "$10k a year, plus a $5k tax-refund slot.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-cd-ladder-after-divorce",
+      "title": "Choosing a CD-ladder after divorce",
+      "dek": "Three months, six months, a year, two years.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-treasury-ladder-after-divorce",
+      "title": "Choosing a Treasury-ladder after divorce",
+      "dek": "TreasuryDirect; one-month, three-month, six-month.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-high-yield-savings-account-after-divorce",
+      "title": "Choosing a high-yield-savings-account after divorce",
+      "dek": "FDIC; rate; transfer time.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-money-market-mutual-fund-after-divorce",
+      "title": "Choosing a money-market mutual fund after divorce",
+      "dek": "SEC vs. bank; what changed in 2023.",
+      "category": "investing"
+    },
+    {
+      "slug": "rebalancing-a-portfolio-once-a-year-on-money-sunday",
+      "title": "Rebalancing a portfolio once a year, on Money Sunday",
+      "dek": "Two clicks; ten minutes.",
+      "category": "investing"
+    },
+    {
+      "slug": "tax-loss-harvesting-once-a-year-on-money-sunday",
+      "title": "Tax-loss harvesting once a year, on Money Sunday",
+      "dek": "Realize losses; replace; document.",
+      "category": "investing"
+    },
+    {
+      "slug": "tax-gain-harvesting-in-a-low-income-year-after-divorce",
+      "title": "Tax-gain harvesting in a low-income year after divorce",
+      "dek": "Zero LTCG bracket exists.",
+      "category": "investing"
+    },
+    {
+      "slug": "calculating-a-safe-withdrawal-rate-after-divorce",
+      "title": "Calculating a safe withdrawal rate after divorce",
+      "dek": "4%; with caveats; with humility.",
+      "category": "investing"
+    },
+    {
+      "slug": "calculating-a-guard-rail-withdrawal-rate-after-divorce",
+      "title": "Calculating a guard-rail withdrawal rate after divorce",
+      "dek": "Adjust spending in down years.",
+      "category": "investing"
+    },
+    {
+      "slug": "calculating-a-bucket-strategy-withdrawal-after-divorce",
+      "title": "Calculating a bucket-strategy withdrawal after divorce",
+      "dek": "Cash; bonds; stocks; sequence-of-returns.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-roth-conversion-year-after-divorce",
+      "title": "Choosing a Roth conversion year after divorce",
+      "dek": "Low-income years are gold.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-an-ira-to-roth-conversion-ladder-after-divorce",
+      "title": "Choosing an IRA-to-Roth conversion ladder after divorce",
+      "dek": "Five-year clocks; calm execution.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-nua-election-on-company-stock-after-divorce",
+      "title": "Choosing a NUA election on company stock after divorce",
+      "dek": "The basis trick few use.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-mega-backdoor-roth-at-the-right-employer-after-divorce",
+      "title": "Choosing a Mega-Backdoor Roth at the right employer after divorce",
+      "dek": "Plan must allow; many do.",
+      "category": "investing"
+    },
+    {
+      "slug": "choosing-a-72-t-early-retirement-distribution-after-divorce",
+      "title": "Choosing a 72(t) early-retirement distribution after divorce",
+      "dek": "Early-withdrawal penalty exception.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-a-vanguard-prospectus-in-plain-english",
+      "title": "Reading a Vanguard prospectus, in plain English",
+      "dek": "Fees; risk; mandate.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-a-fidelity-prospectus-in-plain-english",
+      "title": "Reading a Fidelity prospectus, in plain English",
+      "dek": "Same; with their flavor.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-a-schwab-prospectus-in-plain-english",
+      "title": "Reading a Schwab prospectus, in plain English",
+      "dek": "Same; with their flavor.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-a-roth-conversion-form-in-plain-english",
+      "title": "Reading a Roth conversion form, in plain English",
+      "dek": "Direct vs. indirect.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-an-account-transfer-form-acats-in-plain-english",
+      "title": "Reading an account-transfer form (ACATS), in plain English",
+      "dek": "Brokerage-to-brokerage.",
+      "category": "investing"
+    },
+    {
+      "slug": "reading-a-beneficiary-designation-form-in-plain-english",
+      "title": "Reading a beneficiary-designation form, in plain English",
+      "dek": "Primary; contingent; per stirpes.",
+      "category": "investing"
+    },
+    {
+      "slug": "telling-kids-about-money-changes-by-age",
+      "title": "Telling kids about money changes, by age",
+      "dek": "Three years old to seventeen, the calm script.",
+      "category": "coparent"
+    },
+    {
+      "slug": "a-shared-co-parenting-expense-spreadsheet-that-does-not-start-fights",
+      "title": "A shared co-parenting expense spreadsheet that does not start fights",
+      "dek": "Three columns; one rule.",
+      "category": "coparent"
+    },
+    {
+      "slug": "a-shared-co-parenting-expense-app-that-does-not-start-fights",
+      "title": "A shared co-parenting expense app that does not start fights",
+      "dek": "OurFamilyWizard; SupportPay; what to consider.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-costs-that-are-not-in-the-decree",
+      "title": "Splitting kid costs that are not in the decree",
+      "dek": "Birthdays; school photos; the long tail.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-summer-camp-costs-in-advance",
+      "title": "Splitting summer-camp costs in advance",
+      "dek": "Calendar in March; bill in May; pay in June.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-back-to-school-costs-in-advance",
+      "title": "Splitting back-to-school costs in advance",
+      "dek": "Lists vary by school; the math is the same.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-holiday-costs-in-advance",
+      "title": "Splitting holiday costs in advance",
+      "dek": "Travel; gifts; meals.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-birthday-costs-in-advance",
+      "title": "Splitting birthday costs in advance",
+      "dek": "One present per parent; one cake.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-school-trip-costs-in-advance",
+      "title": "Splitting school-trip costs in advance",
+      "dek": "Permission slip is the trigger.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-medical-co-pays-in-advance",
+      "title": "Splitting medical co-pays in advance",
+      "dek": "Receipts; reimbursements; calm.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-tutoring-costs-in-advance",
+      "title": "Splitting tutoring costs in advance",
+      "dek": "Rate; hours; quarterly review.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-orthodontia-costs-in-advance",
+      "title": "Splitting orthodontia costs in advance",
+      "dek": "$5k+; lay it out.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-vehicle-costs-in-advance-when-there-is-a-teen-driver",
+      "title": "Splitting kid-vehicle costs in advance, when there is a teen driver",
+      "dek": "Insurance; gas; maintenance.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-visit-costs-in-advance",
+      "title": "Splitting kid-college visit costs in advance",
+      "dek": "Twelve schools; one budget.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-application-costs-in-advance",
+      "title": "Splitting kid-college application costs in advance",
+      "dek": "Test fees; application fees; the small stuff adds up.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-tuition-costs-in-advance-in-three-scenarios",
+      "title": "Splitting kid-college tuition costs in advance, in three scenarios",
+      "dek": "All; partial; none.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-room-and-board-costs-in-advance",
+      "title": "Splitting kid-college room-and-board costs in advance",
+      "dek": "Often the bigger half of the bill.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-book-costs-in-advance",
+      "title": "Splitting kid-college book costs in advance",
+      "dek": "Used; rented; library.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-travel-home-costs-in-advance",
+      "title": "Splitting kid-college travel-home costs in advance",
+      "dek": "Two homes; two flights.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-college-spring-break-costs-in-advance",
+      "title": "Splitting kid-college spring-break costs in advance",
+      "dek": "Yes; no; conditional.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-summer-internship-costs-in-advance",
+      "title": "Splitting kid-summer-internship costs in advance",
+      "dek": "Housing; transportation; food.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-extracurricular-costs-in-advance-by-season",
+      "title": "Splitting kid-extracurricular costs in advance, by season",
+      "dek": "Fall; winter; spring; summer.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-music-lesson-costs-in-advance",
+      "title": "Splitting kid-music-lesson costs in advance",
+      "dek": "Weekly; quarterly; instrument rental.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-art-supply-costs-in-advance",
+      "title": "Splitting kid-art-supply costs in advance",
+      "dek": "Modest, steady, predictable.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-club-team-costs-in-advance",
+      "title": "Splitting kid-club-team costs in advance",
+      "dek": "Not modest; not steady; predictable.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-tournament-travel-costs-in-advance",
+      "title": "Splitting kid-tournament-travel costs in advance",
+      "dek": "Hotels; gas; food.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-hand-me-down-clothing-costs-in-advance",
+      "title": "Splitting kid-hand-me-down clothing costs in advance",
+      "dek": "Free; goodwill; resale.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-shoe-costs-in-advance",
+      "title": "Splitting kid-shoe costs in advance",
+      "dek": "Two pairs a year; sometimes more.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-haircut-costs-in-advance",
+      "title": "Splitting kid-haircut costs in advance",
+      "dek": "Six weeks apart; modest budget.",
+      "category": "coparent"
+    },
+    {
+      "slug": "splitting-kid-glasses-and-contacts-costs-in-advance",
+      "title": "Splitting kid-glasses-and-contacts costs in advance",
+      "dek": "Insurance covers some; not all.",
+      "category": "coparent"
+    },
+    {
+      "slug": "choosing-a-divorce-attorney-without-panicking",
+      "title": "Choosing a divorce attorney without panicking",
+      "dek": "Three calls; three quotes; one fit.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-divorce-mediator-without-panicking",
+      "title": "Choosing a divorce mediator without panicking",
+      "dek": "Cheaper than litigation; not free.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-collaborative-divorce-team-without-panicking",
+      "title": "Choosing a collaborative-divorce team without panicking",
+      "dek": "Lawyers, neutral financial, neutral mental-health.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-pro-se-path-with-care",
+      "title": "Choosing a pro-se path with care",
+      "dek": "Self-represented; not unsupported.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-limited-scope-representation-in-plain-english",
+      "title": "Choosing limited-scope representation, in plain English",
+      "dek": "Hire a lawyer for one motion; not the whole case.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-financial-neutral-cdfa-without-panicking",
+      "title": "Choosing a financial-neutral CDFA without panicking",
+      "dek": "What a CDFA does; what they do not.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-forensic-accountant-without-panicking",
+      "title": "Choosing a forensic accountant without panicking",
+      "dek": "Tracing; valuation; testimony.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-vocational-evaluator-without-panicking",
+      "title": "Choosing a vocational evaluator without panicking",
+      "dek": "What earning capacity is; what it is not.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-co-parenting-coordinator-without-panicking",
+      "title": "Choosing a co-parenting coordinator without panicking",
+      "dek": "After the decree, when the calendar wars start.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-guardian-ad-litem-without-panicking",
+      "title": "Choosing a guardian ad litem without panicking",
+      "dek": "An attorney for the child; appointed by the court.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-custody-evaluator-without-panicking",
+      "title": "Choosing a custody evaluator without panicking",
+      "dek": "A neutral; not always neutral.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-divorce-financial-planner-without-panicking",
+      "title": "Choosing a divorce-financial-planner without panicking",
+      "dek": "Often a CFP plus a CDFA.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-divorce-tax-preparer-without-panicking",
+      "title": "Choosing a divorce-tax-preparer without panicking",
+      "dek": "EAs and CPAs both work.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-real-estate-appraiser-without-panicking",
+      "title": "Choosing a real-estate appraiser without panicking",
+      "dek": "Three quotes; experience matters.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-business-appraiser-without-panicking",
+      "title": "Choosing a business appraiser without panicking",
+      "dek": "ABV, ASA, CVA; the credentials.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-pension-actuary-without-panicking",
+      "title": "Choosing a pension actuary without panicking",
+      "dek": "Often a one-time engagement.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-qdro-drafter-without-panicking",
+      "title": "Choosing a QDRO drafter without panicking",
+      "dek": "Specialized; affordable; necessary.",
+      "category": "legal"
+    },
+    {
+      "slug": "choosing-a-process-server-without-panicking",
+      "title": "Choosing a process-server without panicking",
+      "dek": "Local; quick; calm.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-divorce-decree-before-signing",
+      "title": "Reading a divorce decree before signing",
+      "dek": "Two-pass reading; out loud.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-marital-settlement-agreement-before-signing",
+      "title": "Reading a marital settlement agreement before signing",
+      "dek": "Three-pass reading; with a printout.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-parenting-plan-before-signing",
+      "title": "Reading a parenting plan before signing",
+      "dek": "Calendar; transitions; holidays.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-qdro-before-signing",
+      "title": "Reading a QDRO before signing",
+      "dek": "Plan name; participant; alternate payee.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-deed-transfer-before-signing",
+      "title": "Reading a deed transfer before signing",
+      "dek": "Title is not loan; loan is not title.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-refinance-closing-disclosure-before-signing",
+      "title": "Reading a refinance closing-disclosure before signing",
+      "dek": "The bottom-right number, slowly.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-real-estate-settlement-statement-before-signing",
+      "title": "Reading a real-estate settlement statement before signing",
+      "dek": "Where every dollar goes.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-an-llc-operating-agreement-before-signing",
+      "title": "Reading an LLC operating agreement before signing",
+      "dek": "Buy-sell; capital calls; quorum.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-partnership-agreement-before-signing",
+      "title": "Reading a partnership agreement before signing",
+      "dek": "Profit shares; loss allocation; capital accounts.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-stock-purchase-agreement-before-signing",
+      "title": "Reading a stock-purchase agreement before signing",
+      "dek": "Reps and warranties; indemnification.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-non-compete-before-signing",
+      "title": "Reading a non-compete before signing",
+      "dek": "Geography; duration; carve-outs.",
+      "category": "legal"
+    },
+    {
+      "slug": "reading-a-separation-agreement-before-signing",
+      "title": "Reading a separation agreement before signing",
+      "dek": "What changes the day after.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-a-divorce-petition-pro-se-in-plain-english",
+      "title": "Filing a divorce petition pro se, in plain English",
+      "dek": "Forms; filing fees; service.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-for-an-uncontested-divorce-in-plain-english",
+      "title": "Filing for an uncontested divorce, in plain English",
+      "dek": "Cheapest; fastest; calmest.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-for-a-contested-divorce-with-care",
+      "title": "Filing for a contested divorce, with care",
+      "dek": "Discovery; depositions; trial.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-for-a-default-divorce-in-plain-english",
+      "title": "Filing for a default divorce, in plain English",
+      "dek": "When the other side does not respond.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-for-a-fault-based-divorce-with-care",
+      "title": "Filing for a fault-based divorce, with care",
+      "dek": "Adultery; cruelty; rare today.",
+      "category": "legal"
+    },
+    {
+      "slug": "filing-for-a-no-fault-divorce-with-care",
+      "title": "Filing for a no-fault divorce, with care",
+      "dek": "The standard path.",
+      "category": "legal"
+    },
+    {
+      "slug": "asking-a-judge-for-temporary-support-with-care",
+      "title": "Asking a judge for temporary support, with care",
+      "dek": "Pendente lite; before the final.",
+      "category": "legal"
+    },
+    {
+      "slug": "asking-a-judge-for-temporary-custody-with-care",
+      "title": "Asking a judge for temporary custody, with care",
+      "dek": "Calendar in pencil.",
+      "category": "legal"
+    },
+    {
+      "slug": "asking-a-judge-for-a-temporary-restraining-order-with-care",
+      "title": "Asking a judge for a temporary restraining order, with care",
+      "dek": "Safety first; assets second.",
+      "category": "legal"
+    },
+    {
+      "slug": "asking-a-judge-for-an-emergency-hearing-with-care",
+      "title": "Asking a judge for an emergency hearing, with care",
+      "dek": "Standards are high; sometimes warranted.",
+      "category": "legal"
+    },
+    {
+      "slug": "how-to-think-about-a-household-audit-on-the-first-sunday-of-every-mont",
+      "title": "How to think about a household audit on the first Sunday of every month (Vol. 2)",
+      "dek": "A short, calm, practical reading.",
+      "category": "calm-plan"
+    }
+  ]
+}
